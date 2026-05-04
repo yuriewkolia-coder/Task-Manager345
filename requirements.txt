@@ -1,0 +1,10 @@
+# Task Manager dependencies
+# No external dependencies required - uses only Python standard library
+# Tested with Python 3.7+
+
+# For development and testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Optional: For colored console output (not required for basic functionality)
+# colorama>=0.4.6
